@@ -1,5 +1,12 @@
 # Starbucks_Capstone_project
 
+## Purpose
+I am interested to answer the following questions
+- What is the majority of Starbucks customers? (Male/Female/O)
+- From which age group comes the majority of Starbuck customers? (Teen/Mature/Seniors)
+- What is the offer preferred by customers? and Who from customer age group is active in completing the offers?
+- Who’s from customers really interacting with the received offers?
+
 
 ## Software Requirements
 Python 3.x. 
